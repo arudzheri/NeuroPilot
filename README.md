@@ -18,8 +18,6 @@ NeuroPilot is a web application designed to help students organize their study m
 ## Installation & Setup
 Follow these steps to run the project locally:
 
-Follow these steps:
-
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
 git clone https://github.com/arudzheri/neuropilot.git
@@ -28,7 +26,7 @@ git clone https://github.com/arudzheri/neuropilot.git
 cd neuropilot
 
 # Step 3: Install the necessary dependencies.
-npm i
+npm install
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
