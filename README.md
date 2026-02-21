@@ -27,7 +27,7 @@ Follow these steps:
 git clone git clone https://github.com/arudzheri/neuropilot.git
 
 # Step 2: Navigate to the project directory.
-cd neuropilot>
+cd neuropilot
 
 # Step 3: Install the necessary dependencies.
 npm i
